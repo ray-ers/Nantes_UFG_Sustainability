@@ -1,15 +1,15 @@
 
 Sustainability Assessment of Urban Food Gardens (UFGs) in Nantes
 
-This repository contains the R scripts and data for the sustainability assessment of 54 allotment garden plots across 5 sites in Nantes Nord. The analysis uses two frameworks:\
-1.  A Soil-Water-Food (SWF) nexus model.\
-2.  A 5-attribute (MESMIS-style) model (Production, Stability, Adaptability, Equity, Self-Management).\
+This repository contains the R scripts and data for the sustainability assessment of 54 allotment garden plots across 5 sites in Nantes Nord. The analysis uses two frameworks:
+1.  A Soil-Water-Food (SWF) nexus model.
+2.  A 5-attribute (MESMIS-style) model (Production, Stability, Adaptability, Equity, Self-Management).
 
 ## Project Structure
 
-* **/data**: Contains the raw data files (`Data_Chapter5.xlsx`, `code_book.xlsx`, `weighting_FWS.xlsx`).\
-* **/scripts**: Contains all R scripts for the analysis, numbered in order of execution.\
-* **/output**: The default location for all generated plots (600dpi .png) and data tables (.csv). This folder is ignored by Git.\
+* **/data**: Contains the raw data files (`Data_Chapter5.xlsx`, `code_book.xlsx`, `weighting_FWS.xlsx`).
+* **/scripts**: Contains all R scripts for the analysis, numbered in order of execution.
+* **/output**: The default location for all generated plots (600dpi .png) and data tables (.csv).
 
 ## Analytical Workflow
 
